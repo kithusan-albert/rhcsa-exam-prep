@@ -1,3 +1,4 @@
+###### *Source:* RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems
 
 ### 1. **Linux Directory Structure and File Systems:**
 
@@ -11,7 +12,7 @@
         
     - The forward slash ( / ) is used as a directory separator in directory path.
     
-###### *Source:* RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems
+
     
 
 
