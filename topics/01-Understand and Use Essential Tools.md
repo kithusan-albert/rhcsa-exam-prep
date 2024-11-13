@@ -1,5 +1,3 @@
-*RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems*
-
 
 **Linux Directory Structure and File Systems:**
 
@@ -12,5 +10,8 @@
         - Dynamic directories contain log files, status files, temporary file, etc.
         
     - The forward slash ( / ) is used as a directory separator in directory path.
+    
+    *RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems*
+
 
     
