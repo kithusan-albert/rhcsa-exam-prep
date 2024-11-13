@@ -1,6 +1,10 @@
+*RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems*
+
+
 **Linux Directory Structure and File Systems:**
 
     - File systems contain files and subdirectories.
+    
     - Files sytems hold static data, dynamic or varialbe information
         - Static data refers to file content that remains unchanged unless modified explicitly.
         - Dynamic or variable data refers to file content that is modified and updated as required by system processes.
