@@ -1,6 +1,7 @@
+* Source: RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems*
 
 **Linux Directory Structure and File Systems:**
-    Source: *RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems*
+
 
     - File systems contain files and subdirectories.
     
