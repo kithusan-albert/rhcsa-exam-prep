@@ -1,5 +1,5 @@
 
-### **Linux Directory Structure and File Systems:**
+### 1. **Linux Directory Structure and File Systems:**
 
     - File systems contain files and subdirectories.
     
