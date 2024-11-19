@@ -11,9 +11,16 @@
         - Dynamic directories contain log files, status files, temporary file, etc.
         
     - The forward slash ( / ) is used as a directory separator in directory path.
-    
 
     
+### 2. **Root File System:**
 
+    - /ect : directory holds system configuration files.
+    - /root : This is the default home directory location of the root user.
+    - /mnt : This is the directory used to mount file systems temporarily. 
+    - /boot : Boot file system contains the Linux kernel, boot support files, and boot configuration files. 
+    - /home : Home file system is to store user home directories and other user contents.
+    - /opt : Used to hold additional software that may need to be installed on the system. A subdirectory is created for each installed software
+    - /usr: 
 
     
