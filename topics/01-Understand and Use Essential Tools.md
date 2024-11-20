@@ -22,7 +22,7 @@
     - /home : Home file system is to store user home directories and other user contents.
     - /opt : Used to hold additional software that may need to be installed on the system. A subdirectory is created for each installed software
 
-    ___
+**    UNIX System Resources Directory (/usr) **
     - /usr: usr contains most of the system files.
         - /usr/bin : The binary directory contains crucial user executable commands.
         - /usr/sbin : Commands that are required at system boot, and those that require the root user privileges in order to run are stored in the system binary directory.
