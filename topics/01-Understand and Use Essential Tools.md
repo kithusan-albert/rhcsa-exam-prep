@@ -50,6 +50,7 @@
     
 >  **Variable Directory**
 
+
     /var : This directory contains data that frequently changes while the system is operational. Files in this directory contain log, status, spool, lock and other dynamic data. 
         - /var/log storage for most log files, such as system logs, boot logs, user logs, failed user logs, installation logs, cron logs, mail logs, etc. 
         - /var/opt stores log, status, and other variable data files for additional software installed in /opt.
