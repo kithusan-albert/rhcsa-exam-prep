@@ -9,7 +9,7 @@
     <img src="https://github.com/user-attachments/assets/51b2d168-0389-44da-99c2-c54671a7308f" alt="Linux Directory Structure" width="500">
 </p>
 
-    Files sytems hold static data, dynamic or variable information
+    Files system hold static data, dynamic or variable information
         - Static data refers to file content that remains unchanged unless modified explicitly.
         - Dynamic or variable data refers to file content that is modified and updated as required by system processes.
         - Static diretories normally contain command, configuration files, librarym routines, kernel files, device files, etc.
