@@ -1,4 +1,6 @@
 ###### *Source:* RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Linux Directory Structure and File Systems
+![Alt text](https://example.com/path/to/image.png](https://github.com/user-attachments/assets/51b2d168-0389-44da-99c2-c54671a7308f))
+
 
 ### 1. **Linux Directory Structure and File Systems:**
 
