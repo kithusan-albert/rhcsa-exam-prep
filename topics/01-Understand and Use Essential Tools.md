@@ -22,7 +22,7 @@
 
 >  **Directories**
 
-    /ect : directory holds system configuration files.
+    /ect : This directory holds system configuration files.
     /root : This is the default home directory location of the root user.
     /mnt : This is the directory used to mount file systems temporarily. 
     /boot : Boot file system contains the Linux kernel, boot support files, and boot configuration files. 
@@ -46,7 +46,7 @@
 
     /usr/share : This directory serves as the location for manual pages, documentation, sample templates, configuration file, etc., that may be shared with other Linux platforms. 
 
-    usr/src : This Directory is used to store source code.
+    /usr/src : This directory is used to store source code.
     
 
 
