@@ -37,8 +37,10 @@
     - /usr/share : This directory serves as the location for manual pages, documentation, sample templates, configuration file, etc., that may be shared with other Linux platforms. 
 
     - usr/src : This Directory is used to store source code.
+    
+    ##### 2. **Variable Directory (/var:**
 
-##### 2. **Variable Directory (/var:**
+
     
 
     
