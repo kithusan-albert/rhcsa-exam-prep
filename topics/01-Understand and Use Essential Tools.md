@@ -62,7 +62,7 @@
     
 >  **Device File Systems (Virtual)**
 
-        /dev directory, is used to store device nodes for physical     hardware and virtual devices. The Linux kernel communicates with these devices through corresponding device nodes located here.
+    /dev directory, is used to store device nodes for physical     hardware and virtual devices. The Linux kernel communicates with these devices through corresponding device nodes located here.
         These devices are automatically created and deleted by the udevd service (a Linux service for dynamic device management) as necessary.
        
 
