@@ -50,7 +50,6 @@
     
 >  **Variable Directory**
 
-
     /var : This directory contains data that frequently changes while the system is operational. Files in this directory contain log, status, spool, lock and other dynamic data. 
         - /var/log storage for most log files, such as system logs, boot logs, user logs, failed user logs, installation logs, cron logs, mail logs, etc. 
         - /var/opt stores log, status, and other variable data files for additional software installed in /opt.
@@ -62,6 +61,7 @@
     /tmp : Is a repository for temporary files. Survive system reboots and automatically deleted if not accessed or modified for 10 days. 
     
 >  **Device File Systems (Virtual)**
+
     /dev directory, is used to store device nodes for physical hardware and virtual devices. The Linux kernel communicates with these devices through corresponding device nodes located here.
 These devices are automatically created and deleted by the udevd service (a Linux service for dynamic device management) as necessary.
        
