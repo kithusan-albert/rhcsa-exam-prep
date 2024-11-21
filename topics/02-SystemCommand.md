@@ -4,7 +4,7 @@ The basic syntax of a Liunx command:
 
 Many commands have preconfigured default options and arguments. Other commands do require at least one option or argument in order to work. 
 
-    Options (a.k.a a switch of flag) are optional. Option to specify zero or more options with a command.
+    Options : (a.k.a a switch of flag) are optional. Option to specify zero or more options with a command.
 
     Arguments : May be optional or mandatory depending on the command and its usage. 
 
