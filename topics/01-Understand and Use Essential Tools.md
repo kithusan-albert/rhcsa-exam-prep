@@ -48,7 +48,7 @@
 
     /usr/src : This directory is used to store source code.
     
->  **Variable Directory**
+>  **Variable Directory (/var)**
 
     /var : This directory contains data that frequently changes while the system is operational. Files in this directory contain log, status, spool, lock and other dynamic data. 
         - /var/log storage for most log files, such as system logs, boot logs, user logs, failed user logs, installation logs, cron logs, mail logs, etc. 
@@ -56,7 +56,7 @@
         - /var/spool holds print jobs, cron jobs, mail messages, and other queued items before being sent out to their intended destinations.
         - /var/tmp : large temporary files or temporary files that need to exist for longer periods of time than what is typically allowed in /tmp. Survive system reboots and automatically deleted if not accessed or modified for 30 days.
 
->  **Temporary Directory**       
+>  **Temporary Directory (/tmp)**       
 
     /tmp : Is a repository for temporary files. Survive system reboots and automatically deleted if not accessed or modified for 10 days. 
     
