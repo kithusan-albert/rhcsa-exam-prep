@@ -1,23 +1,16 @@
-###### *Source:* RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Understanding the Command Mechanics
+###### *Source:* RHCSA Red Hat Enterprise Linux 9 by Asghar Ghori - Essential System Commands
 
+The basic syntax of a Liunx command: 
 
+Many commands have preconfigured default options and arguments. Other commands do require at least one option or argument in order to work. 
 
-### 1. **Linux Directory Structure and File Systems:**
+    Options (a.k.a a switch of flag) are optional. Option to specify zero or more options with a command.
 
-    File systems contain files and subdirectories.
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/51b2d168-0389-44da-99c2-c54671a7308f" alt="Linux Directory Structure" width="500">
-</p>
+    Arguments : May be optional or mandatory depending on the command and its usage. 
 
-    Files system hold static data, dynamic or variable information
-        - Static data refers to file content that remains unchanged unless modified explicitly.
-        - Dynamic or variable data refers to file content that is modified and updated as required by system processes.
-        - Static diretories normally contain command, configuration files, librarym routines, kernel files, device files, etc.
-        - Dynamic directories contain log files, status files, temporary file, etc.
-        
-    The forward slash ( / ) is used as a directory separator in directory path.
-
+    An option may start with a single hyphen character (-), short-option.
+        short-option : Each individual letter in the option represents a separate option (-la, for instance, I and a are two options)
     
-### 2. **File System:**
-
->  **Directories**
+    An option may also start with two hyphen character (--), long-option
+        long-option : All letters in is collectively identified as a single option (-all is one option)
+    
