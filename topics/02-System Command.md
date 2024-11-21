@@ -46,7 +46,21 @@ Many commands have preconfigured default options and arguments. Other commands d
 
 | Command | Description |
 | --- | --- |
+| man | View manual pages of command|
 | tty | Print the file name of the terminal connected to the current session|
 | uptime | Display the system current time, length of time it has been up for, number of users currently logged in, and the average CPU load over the past 1, 5 and 15 minutes.|
 | clear | Clear the terminal screen and place the cursor at the top left of the screen.|
 | which | Identify the absolute path of a of an executable file (command)|
+| uname -a| Show system information about the operating system and the kernel|
+| lscpu | Show detailed information about the CPU architecture and hardware feature|
+
+> **Manual**
+
+| Command | Description |
+| --- | --- |
+| mandb | Build an idndexed database of manual pages|
+| man -k | Search the manual pages decription for a given keyword|
+| --help or -? | Show help message or usage information about given command, a quick overview of the command |
+
+
+
