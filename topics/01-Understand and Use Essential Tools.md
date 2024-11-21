@@ -60,12 +60,19 @@
 
     /tmp : Is a repository for temporary files. Survive system reboots and automatically deleted if not accessed or modified for 10 days. 
     
->  **Device File Systems (Virtual)**
+>  **Device File Systems (/dev) - Virtual**
 
     /dev directory, is used to store device nodes for physical     hardware and virtual devices. The Linux kernel communicates with these devices through corresponding device nodes located here.
         These devices are automatically created and deleted by the udevd service (a Linux service for dynamic device management) as necessary.
-       
+        
+>  **System File Systems (/sys) - Virtual**       
 
+    /sys directory, stores  information about hardware devices, drivers, and some kernel features. This information is used by the kernel to load necessary support for the devices, create device nodes in /dev, and configure the devices. The file system is auto-maintained. 
     
+>  **Procfs File Systems (/proc) - Virtual**
+
+    The Procfs (process file system) is used to maintain information about the current state of running kernel. This includes the details for current hardware configuration and status information on CPU, memeory, disks, partitioning, file systemm networkingm running processes , ect.
+    
+    /run and its subdirectories is a virtual file system for storing data for processes running on the system. 
 
     
