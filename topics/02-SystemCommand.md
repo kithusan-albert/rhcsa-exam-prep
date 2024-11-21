@@ -13,4 +13,5 @@ Many commands have preconfigured default options and arguments. Other commands d
     
     An option may also start with two hyphen character (--), long-option
         long-option : All letters in is collectively identified as a single option (-all is one option)
-    
+
+< **Listing Files and Directories**
