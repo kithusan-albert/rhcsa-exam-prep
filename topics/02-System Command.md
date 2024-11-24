@@ -53,6 +53,7 @@ Many commands have preconfigured default options and arguments. Other commands d
 | which | Identify the absolute path of a of an executable file (command)|
 | uname -a| Show system information about the operating system and the kernel|
 | lscpu | Show detailed information about the CPU architecture and hardware feature|
+| stat /etc/hostname | Display detailed information about a file, show metadata about the file that stores the hostname of the system|
 
 > **Manual**
 
